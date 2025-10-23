@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/home/stanislav/Desktop/Algoritms&Data_structure/Lab3_Methodic_Final/build",
+  "command": "/usr/bin/g++ -I\"/home/stanislav/Desktop/Algoritms&Data_structure/Lab3_Methodic_Final\" -g -std=gnu++17 -o CMakeFiles/lab3.dir/main.cpp.o -c \"/home/stanislav/Desktop/Algoritms&Data_structure/Lab3_Methodic_Final/main.cpp\"",
+  "file": "/home/stanislav/Desktop/Algoritms&Data_structure/Lab3_Methodic_Final/main.cpp",
+  "output": "CMakeFiles/lab3.dir/main.cpp.o"
+},
+{
+  "directory": "/home/stanislav/Desktop/Algoritms&Data_structure/Lab3_Methodic_Final/build",
+  "command": "/usr/bin/g++ -I\"/home/stanislav/Desktop/Algoritms&Data_structure/Lab3_Methodic_Final\" -g -std=gnu++17 -o CMakeFiles/lab3.dir/Sort/Sort.cpp.o -c \"/home/stanislav/Desktop/Algoritms&Data_structure/Lab3_Methodic_Final/Sort/Sort.cpp\"",
+  "file": "/home/stanislav/Desktop/Algoritms&Data_structure/Lab3_Methodic_Final/Sort/Sort.cpp",
+  "output": "CMakeFiles/lab3.dir/Sort/Sort.cpp.o"
+}
+]
