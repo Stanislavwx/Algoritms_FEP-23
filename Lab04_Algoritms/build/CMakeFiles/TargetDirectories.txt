@@ -1,0 +1,4 @@
+/home/stanislav/Desktop/Algoritms&Data_structure/Lab04_Final_fixShow/build/CMakeFiles/lab04_01.dir
+/home/stanislav/Desktop/Algoritms&Data_structure/Lab04_Final_fixShow/build/CMakeFiles/lab04_02.dir
+/home/stanislav/Desktop/Algoritms&Data_structure/Lab04_Final_fixShow/build/CMakeFiles/edit_cache.dir
+/home/stanislav/Desktop/Algoritms&Data_structure/Lab04_Final_fixShow/build/CMakeFiles/rebuild_cache.dir

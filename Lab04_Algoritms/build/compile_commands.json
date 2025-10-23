@@ -1,0 +1,26 @@
+[
+{
+  "directory": "/home/stanislav/Desktop/Algoritms&Data_structure/Lab04_Final_fixShow/build",
+  "command": "/usr/bin/g++ -I\"/home/stanislav/Desktop/Algoritms&Data_structure/Lab04_Final_fixShow/include\" -g -std=gnu++17 -o CMakeFiles/lab04_01.dir/src/Lab_04_01.cpp.o -c \"/home/stanislav/Desktop/Algoritms&Data_structure/Lab04_Final_fixShow/src/Lab_04_01.cpp\"",
+  "file": "/home/stanislav/Desktop/Algoritms&Data_structure/Lab04_Final_fixShow/src/Lab_04_01.cpp",
+  "output": "CMakeFiles/lab04_01.dir/src/Lab_04_01.cpp.o"
+},
+{
+  "directory": "/home/stanislav/Desktop/Algoritms&Data_structure/Lab04_Final_fixShow/build",
+  "command": "/usr/bin/g++ -I\"/home/stanislav/Desktop/Algoritms&Data_structure/Lab04_Final_fixShow/include\" -g -std=gnu++17 -o CMakeFiles/lab04_01.dir/src/Tree.cpp.o -c \"/home/stanislav/Desktop/Algoritms&Data_structure/Lab04_Final_fixShow/src/Tree.cpp\"",
+  "file": "/home/stanislav/Desktop/Algoritms&Data_structure/Lab04_Final_fixShow/src/Tree.cpp",
+  "output": "CMakeFiles/lab04_01.dir/src/Tree.cpp.o"
+},
+{
+  "directory": "/home/stanislav/Desktop/Algoritms&Data_structure/Lab04_Final_fixShow/build",
+  "command": "/usr/bin/g++ -I\"/home/stanislav/Desktop/Algoritms&Data_structure/Lab04_Final_fixShow/include\" -g -std=gnu++17 -o CMakeFiles/lab04_02.dir/src/Lab_04_02.cpp.o -c \"/home/stanislav/Desktop/Algoritms&Data_structure/Lab04_Final_fixShow/src/Lab_04_02.cpp\"",
+  "file": "/home/stanislav/Desktop/Algoritms&Data_structure/Lab04_Final_fixShow/src/Lab_04_02.cpp",
+  "output": "CMakeFiles/lab04_02.dir/src/Lab_04_02.cpp.o"
+},
+{
+  "directory": "/home/stanislav/Desktop/Algoritms&Data_structure/Lab04_Final_fixShow/build",
+  "command": "/usr/bin/g++ -I\"/home/stanislav/Desktop/Algoritms&Data_structure/Lab04_Final_fixShow/include\" -g -std=gnu++17 -o CMakeFiles/lab04_02.dir/src/Tree.cpp.o -c \"/home/stanislav/Desktop/Algoritms&Data_structure/Lab04_Final_fixShow/src/Tree.cpp\"",
+  "file": "/home/stanislav/Desktop/Algoritms&Data_structure/Lab04_Final_fixShow/src/Tree.cpp",
+  "output": "CMakeFiles/lab04_02.dir/src/Tree.cpp.o"
+}
+]
