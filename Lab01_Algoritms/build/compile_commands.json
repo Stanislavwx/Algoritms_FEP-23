@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/home/stanislav/Desktop/Algoritms&Data_structure/Lab1/build",
+  "command": "/usr/bin/g++ -g -std=gnu++17 -o CMakeFiles/Lab1.dir/main.cpp.o -c \"/home/stanislav/Desktop/Algoritms&Data_structure/Lab1/main.cpp\"",
+  "file": "/home/stanislav/Desktop/Algoritms&Data_structure/Lab1/main.cpp",
+  "output": "CMakeFiles/Lab1.dir/main.cpp.o"
+},
+{
+  "directory": "/home/stanislav/Desktop/Algoritms&Data_structure/Lab1/build",
+  "command": "/usr/bin/g++ -g -std=gnu++17 -o CMakeFiles/Lab1.dir/Sort.cpp.o -c \"/home/stanislav/Desktop/Algoritms&Data_structure/Lab1/Sort.cpp\"",
+  "file": "/home/stanislav/Desktop/Algoritms&Data_structure/Lab1/Sort.cpp",
+  "output": "CMakeFiles/Lab1.dir/Sort.cpp.o"
+}
+]

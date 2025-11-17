@@ -1,0 +1,20 @@
+[
+{
+  "directory": "/home/stanislav/Desktop/Algoritms&Data_structure/Lab_05_Heaps/build",
+  "command": "/usr/bin/g++ -I\"/home/stanislav/Desktop/Algoritms&Data_structure/Lab_05_Heaps\" -g -std=gnu++17 -o CMakeFiles/Heap.dir/Heap.cpp.o -c \"/home/stanislav/Desktop/Algoritms&Data_structure/Lab_05_Heaps/Heap.cpp\"",
+  "file": "/home/stanislav/Desktop/Algoritms&Data_structure/Lab_05_Heaps/Heap.cpp",
+  "output": "CMakeFiles/Heap.dir/Heap.cpp.o"
+},
+{
+  "directory": "/home/stanislav/Desktop/Algoritms&Data_structure/Lab_05_Heaps/build",
+  "command": "/usr/bin/g++ -I\"/home/stanislav/Desktop/Algoritms&Data_structure/Lab_05_Heaps\" -g -std=gnu++17 -o CMakeFiles/Part1.dir/Part1/main.cpp.o -c \"/home/stanislav/Desktop/Algoritms&Data_structure/Lab_05_Heaps/Part1/main.cpp\"",
+  "file": "/home/stanislav/Desktop/Algoritms&Data_structure/Lab_05_Heaps/Part1/main.cpp",
+  "output": "CMakeFiles/Part1.dir/Part1/main.cpp.o"
+},
+{
+  "directory": "/home/stanislav/Desktop/Algoritms&Data_structure/Lab_05_Heaps/build",
+  "command": "/usr/bin/g++ -I\"/home/stanislav/Desktop/Algoritms&Data_structure/Lab_05_Heaps\" -g -std=gnu++17 -o CMakeFiles/Part2.dir/Part2/main.cpp.o -c \"/home/stanislav/Desktop/Algoritms&Data_structure/Lab_05_Heaps/Part2/main.cpp\"",
+  "file": "/home/stanislav/Desktop/Algoritms&Data_structure/Lab_05_Heaps/Part2/main.cpp",
+  "output": "CMakeFiles/Part2.dir/Part2/main.cpp.o"
+}
+]

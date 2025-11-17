@@ -1,0 +1,5 @@
+/home/stanislav/Desktop/Algoritms&Data_structure/Lab_05_Heaps/build/CMakeFiles/Heap.dir
+/home/stanislav/Desktop/Algoritms&Data_structure/Lab_05_Heaps/build/CMakeFiles/Part1.dir
+/home/stanislav/Desktop/Algoritms&Data_structure/Lab_05_Heaps/build/CMakeFiles/Part2.dir
+/home/stanislav/Desktop/Algoritms&Data_structure/Lab_05_Heaps/build/CMakeFiles/edit_cache.dir
+/home/stanislav/Desktop/Algoritms&Data_structure/Lab_05_Heaps/build/CMakeFiles/rebuild_cache.dir

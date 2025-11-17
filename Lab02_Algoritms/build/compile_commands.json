@@ -1,0 +1,20 @@
+[
+{
+  "directory": "/home/stanislav/Desktop/Algoritms&Data_structure/Lab02/build",
+  "command": "/usr/bin/g++ -g -std=gnu++17 -o CMakeFiles/Sort.dir/Sort/Sort.cpp.o -c \"/home/stanislav/Desktop/Algoritms&Data_structure/Lab02/Sort/Sort.cpp\"",
+  "file": "/home/stanislav/Desktop/Algoritms&Data_structure/Lab02/Sort/Sort.cpp",
+  "output": "CMakeFiles/Sort.dir/Sort/Sort.cpp.o"
+},
+{
+  "directory": "/home/stanislav/Desktop/Algoritms&Data_structure/Lab02/build",
+  "command": "/usr/bin/g++ -I\"/home/stanislav/Desktop/Algoritms&Data_structure/Lab02\" -g -std=gnu++17 -o CMakeFiles/Lab_02_01.dir/Lab_02_01/main.cpp.o -c \"/home/stanislav/Desktop/Algoritms&Data_structure/Lab02/Lab_02_01/main.cpp\"",
+  "file": "/home/stanislav/Desktop/Algoritms&Data_structure/Lab02/Lab_02_01/main.cpp",
+  "output": "CMakeFiles/Lab_02_01.dir/Lab_02_01/main.cpp.o"
+},
+{
+  "directory": "/home/stanislav/Desktop/Algoritms&Data_structure/Lab02/build",
+  "command": "/usr/bin/g++ -I\"/home/stanislav/Desktop/Algoritms&Data_structure/Lab02\" -g -std=gnu++17 -o CMakeFiles/Lab_02_02.dir/Lab_02_02/main.cpp.o -c \"/home/stanislav/Desktop/Algoritms&Data_structure/Lab02/Lab_02_02/main.cpp\"",
+  "file": "/home/stanislav/Desktop/Algoritms&Data_structure/Lab02/Lab_02_02/main.cpp",
+  "output": "CMakeFiles/Lab_02_02.dir/Lab_02_02/main.cpp.o"
+}
+]

@@ -1,0 +1,5 @@
+/home/stanislav/Desktop/Algoritms&Data_structure/Lab02/build/CMakeFiles/Sort.dir
+/home/stanislav/Desktop/Algoritms&Data_structure/Lab02/build/CMakeFiles/Lab_02_01.dir
+/home/stanislav/Desktop/Algoritms&Data_structure/Lab02/build/CMakeFiles/Lab_02_02.dir
+/home/stanislav/Desktop/Algoritms&Data_structure/Lab02/build/CMakeFiles/edit_cache.dir
+/home/stanislav/Desktop/Algoritms&Data_structure/Lab02/build/CMakeFiles/rebuild_cache.dir
